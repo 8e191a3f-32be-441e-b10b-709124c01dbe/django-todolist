@@ -1,0 +1,6 @@
+<h1>СПИСОК ЧЕЛОВЕКАВ!</h1>
+<h3><a href="add_shit">Добавить человека!</a></h3>
+<hr>
+{% for x in ob %}
+<a href="{{ x.pk }}"><h1>{{x.first_name}}</h1></a>
+{% endfor %}
