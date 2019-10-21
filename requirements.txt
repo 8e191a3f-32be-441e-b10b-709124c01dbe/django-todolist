@@ -111,7 +111,7 @@ virtualenvwrapper==4.8.2
 vk==2.0.2
 wcwidth==0.1.7
 webencodings==0.5.1
-Werkzeug==0.12.2
+Werkzeug==0.15.3
 wrapt==1.10.11
 xattr==0.6.4
 zope.interface==4.1.1
