@@ -19,7 +19,7 @@ cryptography==2.1.4
 curtsies==0.2.11
 Django==1.11.10
 enum34==1.1.6
-eventlet==0.22.1
+eventlet==0.31.0
 Flask==0.12.2
 Flask-Login==0.4.0
 Flask-PyMongo==0.5.1
