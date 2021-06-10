@@ -17,7 +17,7 @@ click==6.7
 configparser==3.5.0
 cryptography==2.1.4
 curtsies==0.2.11
-Django==1.11.10
+Django==2.2.24
 enum34==1.1.6
 eventlet==0.22.1
 Flask==0.12.2
