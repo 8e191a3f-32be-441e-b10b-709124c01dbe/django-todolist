@@ -52,7 +52,7 @@ prettytable==0.7.2
 py2app==0.7.3
 pycparser==2.18
 Pygments==2.2.0
-PyJWT==1.5.3
+PyJWT==2.4.0
 pylint==1.8.2
 pymongo==3.6.0
 pyobjc-core==2.5.1
